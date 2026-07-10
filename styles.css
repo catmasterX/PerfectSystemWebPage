@@ -751,6 +751,23 @@ section{
 
 }
 
+.discord-button{
+    background:#5865F2;
+    color:#fff;
+    display:flex;
+    align-items:center;
+    gap:10px;
+    transition:.25s ease;
+}
+
+.discord-button:hover{
+    background:#4752C4;
+}
+
+.discord-button i{
+    font-size:1.15rem;
+}
+
 
 /*==================================================
                     FOOTER
